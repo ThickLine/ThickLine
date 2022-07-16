@@ -1,5 +1,5 @@
 # 💫 About Me:
-💙 Flutter<br>💛 Nuxt<br>👐 Experiment<br>👍 Typescript
+💙 Flutter<br>💛 Nuxt<br>👐 Experiment<br>👍 Typescript<br>📮 thicklineapp@gmail.com
 
 
 # 💻 Tech Stack:
